@@ -1,0 +1,694 @@
+ID,Type,Date,Amount,Country,Description,Category
+0,DEBIT,08/23/201900:00,28.5$SAR,Saudi Arabia,POS Purchase,Entertainment
+1,CREDIT,08/23/201900:00,1500$SAR,Saudi Arabia,Cash Deposit Through ATM,Cash
+2,DEBIT,08/24/201900:00,38$SAR,Saudi Arabia,POS Purchase,Entertainment
+3,DEBIT,02/19/202020:55,5$SAR,Netherlands,E-commerce Purchase,Entertainment
+4,DEBIT,08/25/201900:00,20$SAR,Saudi Arabia,POS Purchase,Entertainment
+5,DEBIT,08/25/201900:00,14$SAR,Saudi Arabia,POS Purchase,Entertainment
+6,DEBIT,08/25/201900:00,15.75$SAR,Saudi Arabia,POS Purchase,Food
+7,DEBIT,08/26/201900:00,14$SAR,Saudi Arabia,POS Purchase,Electronics
+8,DEBIT,08/26/201900:00,24$SAR,Saudi Arabia,POS Purchase,Electronics
+9,DEBIT,08/26/201900:00,18.9$SAR,Saudi Arabia,POS Purchase,Food
+10,DEBIT,08/26/201900:00,280$SAR,Saudi Arabia,POS Purchase,Food
+11,DEBIT,08/27/201900:00,44$SAR,Saudi Arabia,POS Purchase,Electronics
+12,DEBIT,08/27/201900:00,7.35$SAR,Saudi Arabia,POS Purchase,Entertainment
+13,DEBIT,08/27/201900:00,31.5$SAR,Saudi Arabia,SADAD Bill Payment,Bills
+14,DEBIT,08/27/201900:00,18.9$SAR,Saudi Arabia,POS Purchase,Electronics
+15,DEBIT,08/28/201900:00,8$SAR,Saudi Arabia,POS Purchase,Electronics
+16,DEBIT,08/28/201900:00,21$SAR,Saudi Arabia,POS Purchase,Electronics
+17,DEBIT,08/28/201900:00,150$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+18,DEBIT,08/28/201900:00,185$SAR,Saudi Arabia,POS Purchase,Entertainment
+19,DEBIT,08/29/201900:00,29.99$SAR,Saudi Arabia,Electron Sales Draft,Entertainment
+20,DEBIT,08/29/201900:00,105.25$SAR,Saudi Arabia,SARIE OUTGOING PAYMENT (DR),Money transfer
+21,DEBIT,08/30/201900:00,23$SAR,Saudi Arabia,POS Purchase,Food
+22,DEBIT,08/30/201900:00,100$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+23,DEBIT,08/30/201900:00,17$SAR,Saudi Arabia,POS Purchase,Coffee
+24,DEBIT,08/31/201900:00,300$SAR,Saudi Arabia,POS Purchase,Electronics
+25,DEBIT,08/31/201900:00,164$SAR,Saudi Arabia,POS Purchase,Food
+26,DEBIT,09/01/201900:00,98.15$SAR,Saudi Arabia,POS Purchase,Electronics
+27,DEBIT,09/02/201900:00,9$SAR,Saudi Arabia,POS Purchase,Coffee
+28,DEBIT,09/03/201900:00,9$SAR,Saudi Arabia,POS Purchase,Coffee
+29,DEBIT,09/03/201900:00,8.4$SAR,Saudi Arabia,POS Purchase,Electronics
+30,DEBIT,09/04/201900:00,24$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+31,DEBIT,09/04/201900:00,9$SAR,Saudi Arabia,POS Purchase,Electronics
+32,DEBIT,09/04/201900:00,9$SAR,Saudi Arabia,POS Purchase,Food
+33,DEBIT,09/04/201900:00,20$SAR,Saudi Arabia,POS Purchase,Food
+34,DEBIT,09/04/201900:00,9.45$SAR,Saudi Arabia,POS Purchase,Electronics
+35,DEBIT,09/05/201900:00,50$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+36,DEBIT,09/05/201900:00,9$SAR,Saudi Arabia,POS Purchase,Electronics
+37,DEBIT,09/05/201900:00,20.08$SAR,Saudi Arabia,POS Purchase,Electronics
+38,DEBIT,09/05/201900:00,500$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+39,DEBIT,09/05/201900:00,10.5$SAR,Saudi Arabia,POS Purchase,Electronics
+40,DEBIT,09/06/201900:00,33.5$SAR,Saudi Arabia,POS Purchase,Coffee
+41,DEBIT,09/06/201900:00,74$SAR,Saudi Arabia,POS Purchase,Entertainment
+42,DEBIT,09/06/201900:00,76$SAR,Saudi Arabia,POS Purchase,Food
+43,DEBIT,09/07/201900:00,1777.04$SAR,Saudi Arabia,Electron Sales Draft,Coffee
+44,DEBIT,09/07/201900:00,221.34$SAR,Saudi Arabia,Electron Sales Draft,Coffee
+45,DEBIT,09/07/201900:00,153.49$SAR,Saudi Arabia,Electron Sales Draft,Coffee
+46,DEBIT,09/08/201900:00,9$SAR,Saudi Arabia,POS Purchase,Coffee
+47,DEBIT,09/08/201900:00,78$SAR,Saudi Arabia,POS Purchase,Electronics
+48,DEBIT,09/08/201900:00,6$SAR,Saudi Arabia,POS Purchase,Coffee
+49,DEBIT,09/08/201900:00,600$SAR,Saudi Arabia,SADAD Bill Payment,Bills
+50,DEBIT,09/08/201900:00,55$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+51,DEBIT,09/09/201900:00,1100$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+52,DEBIT,09/10/201900:00,39.9$SAR,Saudi Arabia,POS Purchase,Coffee
+53,DEBIT,09/11/201900:00,20$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+54,DEBIT,09/12/201900:00,40$SAR,Saudi Arabia,POS Purchase,Electronics
+55,DEBIT,09/12/201900:00,6.3$SAR,Saudi Arabia,POS Purchase,Entertainment
+56,DEBIT,09/12/201900:00,52.5$SAR,Saudi Arabia,SADAD Bill Payment,Bills
+57,DEBIT,09/13/201900:00,68$SAR,Saudi Arabia,POS Purchase,Coffee
+58,DEBIT,09/15/201900:00,26.25$SAR,Saudi Arabia,POS Purchase,Coffee
+59,DEBIT,09/16/201900:00,26$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+60,DEBIT,09/17/201900:00,20$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+61,DEBIT,09/19/201900:00,17.85$SAR,Saudi Arabia,POS Purchase,Food
+62,DEBIT,09/19/201900:00,19$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+63,DEBIT,09/22/201900:00,45$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+64,DEBIT,09/23/201900:00,96$SAR,Saudi Arabia,POS Purchase,Food
+65,DEBIT,09/24/201900:00,16$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+66,DEBIT,09/25/201900:00,15$SAR,Saudi Arabia,POS Purchase,Entertainment
+67,CREDIT,09/25/201900:00,1050$SAR,Saudi Arabia,Cash Deposit Through ATM,Cash
+68,DEBIT,09/26/201900:00,10$SAR,Saudi Arabia,POS Purchase,Coffee
+69,DEBIT,09/26/201900:00,150$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+70,DEBIT,09/26/201900:00,5148$SAR,Saudi Arabia,POS Purchase,Food
+71,DEBIT,09/26/201900:00,65$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+72,DEBIT,09/26/201900:00,35$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+73,DEBIT,09/26/201900:00,62$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+74,DEBIT,09/27/201900:00,3000$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+76,DEBIT,09/28/201921:44,1$SAR,Saudi Arabia,E-commerce Purchase,Essentials
+77,DEBIT,09/28/201900:00,2000$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+79,CREDIT,09/28/201921:45,1$SAR,Saudi Arabia,Deposit of reversed POS purchase,Essentials
+81,DEBIT,09/28/201921:47,73.5$SAR,Saudi Arabia,E-commerce Purchase,Essentials
+82,DEBIT,09/29/201900:00,23$SAR,Saudi Arabia,POS Purchase,Electronics
+83,DEBIT,09/29/201900:00,10$SAR,Saudi Arabia,POS Purchase,Electronics
+84,DEBIT,09/29/201900:00,164.18$SAR,Saudi Arabia,Electron Sales Draft,Entertainment
+85,DEBIT,10/02/201900:00,136$SAR,Saudi Arabia,POS Purchase,Coffee
+86,DEBIT,10/03/201900:00,12$SAR,Saudi Arabia,POS Purchase,Electronics
+87,DEBIT,10/04/201900:00,124$SAR,Saudi Arabia,POS Purchase,Coffee
+88,DEBIT,10/04/201900:00,26$SAR,Saudi Arabia,POS Purchase,Coffee
+89,DEBIT,10/05/201900:00,12$SAR,Saudi Arabia,POS Purchase,Food
+90,DEBIT,10/06/201900:00,215.25$SAR,Saudi Arabia,POS Purchase,Electronics
+91,DEBIT,10/06/201900:00,47$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+92,DEBIT,10/07/201900:00,50$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+93,DEBIT,12/18/201919:28,3$SAR,Luxembourg,E-commerce Purchase,Electronics
+94,DEBIT,10/07/201900:00,50$SAR,Saudi Arabia,POS Purchase,Entertainment
+95,DEBIT,10/07/201900:00,75$SAR,Saudi Arabia,POS Purchase,Entertainment
+96,DEBIT,10/08/201900:00,6$SAR,Saudi Arabia,POS Purchase,Entertainment
+97,DEBIT,10/08/201900:00,10$SAR,Saudi Arabia,POS Purchase,Entertainment
+98,DEBIT,10/08/201900:00,60$SAR,Saudi Arabia,POS Purchase,Coffee
+99,DEBIT,10/09/201900:00,20$SAR,Saudi Arabia,POS Purchase,Electronics
+100,DEBIT,10/09/201900:00,12$SAR,Saudi Arabia,POS Purchase,Electronics
+101,DEBIT,10/09/201900:00,10$SAR,Saudi Arabia,POS Purchase,Coffee
+102,DEBIT,10/11/201900:00,230$SAR,Saudi Arabia,POS Purchase,Coffee
+103,DEBIT,10/11/201900:00,174$SAR,Saudi Arabia,POS Purchase,Electronics
+104,DEBIT,10/11/201900:00,640$SAR,Saudi Arabia,POS Purchase,Food
+105,DEBIT,10/12/201900:00,25$SAR,Saudi Arabia,Electron Sales Draft,Electronics
+106,DEBIT,10/12/201900:00,46$SAR,Saudi Arabia,POS Purchase,Food
+107,DEBIT,10/13/201900:00,12$SAR,Saudi Arabia,POS Purchase,Coffee
+108,DEBIT,10/13/201900:00,12$SAR,Saudi Arabia,POS Purchase,Electronics
+109,DEBIT,10/13/201900:00,250$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+110,DEBIT,10/14/201900:00,12$SAR,Saudi Arabia,POS Purchase,Coffee
+111,DEBIT,10/14/201900:00,10$SAR,Saudi Arabia,POS Purchase,Coffee
+112,DEBIT,10/15/201900:00,10.5$SAR,Saudi Arabia,POS Purchase,Entertainment
+113,DEBIT,10/15/201900:00,10$SAR,Saudi Arabia,POS Purchase,Coffee
+114,DEBIT,10/15/201900:00,59$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+115,CREDIT,10/16/201900:00,9.48$SAR,Saudi Arabia,Electron Refund,Food
+116,DEBIT,10/16/201900:00,12$SAR,Saudi Arabia,POS Purchase,Entertainment
+117,DEBIT,10/17/201900:00,10$SAR,Saudi Arabia,POS Purchase,Entertainment
+118,DEBIT,10/17/201900:00,200$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+119,DEBIT,10/17/201900:00,19.99$SAR,Saudi Arabia,Electron Sales Draft,Food
+120,DEBIT,10/20/201900:00,6$SAR,Saudi Arabia,POS Purchase,Electronics
+121,DEBIT,10/20/201900:00,57$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+122,DEBIT,10/21/201900:00,40$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+123,DEBIT,10/22/201900:00,202.55$SAR,Saudi Arabia,Electron Sales Draft,Entertainment
+124,DEBIT,10/22/201900:00,10$SAR,Saudi Arabia,POS Purchase,Entertainment
+125,DEBIT,10/23/201900:00,23$SAR,Saudi Arabia,POS Purchase,Electronics
+126,DEBIT,10/23/201900:00,8$SAR,Saudi Arabia,POS Purchase,Entertainment
+127,DEBIT,10/23/201900:00,10$SAR,Saudi Arabia,POS Purchase,Entertainment
+128,DEBIT,10/23/201900:00,250$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+129,DEBIT,10/24/201900:00,2299.5$SAR,Saudi Arabia,POS Purchase,Coffee
+130,DEBIT,10/24/201900:00,76$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+131,DEBIT,10/25/201900:00,1450$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+132,DEBIT,10/24/201913:43,4476.79$SAR,USA,E-commerce Purchase,Electronics
+133,DEBIT,10/27/201900:00,1103$SAR,Saudi Arabia,POS Purchase,Electronics
+134,DEBIT,10/28/201900:00,10$SAR,Saudi Arabia,POS Purchase,Electronics
+135,DEBIT,10/29/201900:00,23$SAR,Saudi Arabia,POS Purchase,Coffee
+136,DEBIT,10/29/201900:00,10$SAR,Saudi Arabia,POS Purchase,Coffee
+137,DEBIT,10/30/201900:00,36$SAR,Saudi Arabia,POS Purchase,Food
+138,DEBIT,10/30/201900:00,10$SAR,Saudi Arabia,POS Purchase,Electronics
+139,CREDIT,10/31/201900:00,90$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER,Money transfer
+140,CREDIT,10/31/201900:00,35$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER,Money transfer
+141,DEBIT,10/31/201913:23,10$SAR,Saudi Arabia,E-commerce Purchase,Food
+142,DEBIT,11/01/201900:00,487.32$SAR,Saudi Arabia,Electron Sales Draft,Coffee
+143,DEBIT,11/01/201900:00,68$SAR,Saudi Arabia,POS Purchase,Food
+144,DEBIT,11/02/201900:00,31.5$SAR,Saudi Arabia,SADAD Bill Payment,Bills
+145,DEBIT,11/02/201900:00,28$SAR,Saudi Arabia,POS Purchase,Electronics
+146,DEBIT,11/02/201900:00,286.12$SAR,Saudi Arabia,POS Purchase,Electronics
+147,CREDIT,11/02/201900:00,193.38$SAR,Saudi Arabia,Electron Refund,Entertainment
+148,DEBIT,11/03/201900:00,23$SAR,Saudi Arabia,POS Purchase,Electronics
+149,DEBIT,11/03/201900:00,10$SAR,Saudi Arabia,POS Purchase,Coffee
+150,DEBIT,11/03/201900:00,1200$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+151,DEBIT,11/04/201900:00,8$SAR,Saudi Arabia,POS Purchase,Food
+152,DEBIT,11/04/201900:00,6$SAR,Saudi Arabia,POS Purchase,Entertainment
+153,DEBIT,11/04/201900:00,218$SAR,Saudi Arabia,Electron Sales Draft,Food
+154,CREDIT,11/05/201900:00,73.27$SAR,Saudi Arabia,Electron Refund,Entertainment
+155,DEBIT,11/06/201900:00,12$SAR,Saudi Arabia,POS Purchase,Entertainment
+156,DEBIT,11/07/201900:00,23$SAR,Saudi Arabia,POS Purchase,Electronics
+157,DEBIT,11/09/201900:00,13$SAR,Saudi Arabia,POS Purchase,Electronics
+158,DEBIT,11/09/201900:00,120$SAR,Saudi Arabia,POS Purchase,Electronics
+159,DEBIT,11/10/201900:00,12$SAR,Saudi Arabia,POS Purchase,Entertainment
+160,DEBIT,11/10/201900:00,82.52$SAR,Saudi Arabia,Electron Sales Draft,Entertainment
+161,DEBIT,11/11/201900:00,10$SAR,Saudi Arabia,POS Purchase,Coffee
+162,DEBIT,11/12/201900:00,10$SAR,Saudi Arabia,POS Purchase,Electronics
+163,DEBIT,11/12/201900:00,23$SAR,Saudi Arabia,POS Purchase,Electronics
+164,DEBIT,11/13/201900:00,10$SAR,Saudi Arabia,POS Purchase,Coffee
+165,DEBIT,11/14/201900:00,14.5$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+166,DEBIT,11/14/201900:00,10$SAR,Saudi Arabia,POS Purchase,Entertainment
+167,DEBIT,11/14/201900:00,27$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+168,CREDIT,11/14/201900:00,27$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER,Money transfer
+169,DEBIT,11/15/201900:00,33$SAR,Saudi Arabia,POS Purchase,Electronics
+170,DEBIT,11/15/201900:00,113$SAR,Saudi Arabia,POS Purchase,Entertainment
+171,DEBIT,11/16/201900:00,71$SAR,Saudi Arabia,POS Purchase,Entertainment
+172,DEBIT,11/16/201900:00,119.75$SAR,Saudi Arabia,POS Purchase,Entertainment
+173,DEBIT,11/16/201900:00,562$SAR,Saudi Arabia,POS Purchase,Entertainment
+174,DEBIT,11/17/201900:00,19.99$SAR,Saudi Arabia,Electron Sales Draft,Entertainment
+175,DEBIT,11/17/201900:00,24$SAR,Saudi Arabia,POS Purchase,Coffee
+176,DEBIT,11/17/201900:00,10$SAR,Saudi Arabia,POS Purchase,Electronics
+177,DEBIT,11/18/201900:00,10$SAR,Saudi Arabia,POS Purchase,Food
+178,DEBIT,11/18/201900:00,24$SAR,Saudi Arabia,POS Purchase,Entertainment
+179,DEBIT,11/19/201900:00,12$SAR,Saudi Arabia,POS Purchase,Electronics
+180,DEBIT,11/19/201900:00,10$SAR,Saudi Arabia,POS Purchase,Electronics
+181,CREDIT,11/19/201900:00,3.98$SAR,Saudi Arabia,Electron Refund,Food
+182,DEBIT,11/19/201900:00,500$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+183,DEBIT,11/20/201900:00,52.5$SAR,Saudi Arabia,SADAD Bill Payment,Bills
+184,DEBIT,11/20/201900:00,10$SAR,Saudi Arabia,POS Purchase,Coffee
+185,DEBIT,11/20/201900:00,450$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+186,DEBIT,11/21/201900:00,50$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+189,DEBIT,11/21/201909:36,26$SAR,Saudi Arabia,Needs user input,Food
+191,DEBIT,11/21/201910:23,67$SAR,Saudi Arabia,Needs user input,Essentials
+193,DEBIT,11/22/201908:16,97$SAR,Saudi Arabia,Needs user input,Coffee
+195,DEBIT,11/22/201921:57,50$SAR,Saudi Arabia,cash withdrawal,Cash
+197,DEBIT,11/22/201921:35,50$SAR,Saudi Arabia,cash withdrawal,Cash
+199,DEBIT,11/23/201909:10,24$SAR,Saudi Arabia,Needs user input,Coffee
+200,DEBIT,11/24/201900:00,8$SAR,Saudi Arabia,POS Purchase,Coffee
+203,DEBIT,11/24/201919:29,185$SAR,Saudi Arabia,E-commerce Purchase,Entertainment
+205,DEBIT,11/24/201914:20,12$SAR,Saudi Arabia,Needs user input,Food
+207,DEBIT,11/25/201920:29,21$SAR,Saudi Arabia,Needs user input,Food
+209,DEBIT,11/25/201909:48,173.25$SAR,Saudi Arabia,E-commerce Purchase,Entertainment
+211,DEBIT,11/25/201915:52,2529$SAR,Saudi Arabia,E-commerce Purchase,Essentials
+213,DEBIT,11/25/201914:09,12$SAR,Saudi Arabia,Needs user input,Food
+214,DEBIT,11/25/201900:00,10$SAR,Saudi Arabia,POS Purchase,Food
+217,DEBIT,11/26/201919:34,50$SAR,Saudi Arabia,cash withdrawal,Cash
+219,DEBIT,11/26/201909:03,10$SAR,Saudi Arabia,Needs user input,Coffee
+221,DEBIT,11/26/201913:57,40$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+223,DEBIT,11/27/201909:38,12$SAR,Saudi Arabia,Needs user input,Food
+224,DEBIT,11/27/201900:00,48$SAR,Saudi Arabia,POS Purchase,Entertainment
+226,DEBIT,11/27/201909:21,10$SAR,Saudi Arabia,Needs user input,Coffee
+227,DEBIT,11/26/201910:24,3761.11$SAR,USA,E-commerce Purchase,Electronics
+229,DEBIT,11/28/201900:00,2669$SAR,Saudi Arabia,Reversed POS Purchase,Entertainment
+228,CREDIT,11/28/201900:00,2669$SAR,Saudi Arabia,Reversed POS Purchase,Food
+232,DEBIT,11/28/201921:04,50$SAR,Saudi Arabia,cash withdrawal,Cash
+234,DEBIT,11/28/201909:19,10$SAR,Saudi Arabia,Needs user input,Coffee
+236,DEBIT,11/28/201911:45,2669$SAR,Saudi Arabia,E-commerce Purchase,Essentials
+238,DEBIT,11/28/201915:29,1910.7$SAR,Saudi Arabia,E-commerce Purchase,Electronics
+240,DEBIT,11/29/201919:28,32$SAR,Saudi Arabia,Needs user input,Coffee
+242,DEBIT,11/29/201918:42,357$SAR,Saudi Arabia,Needs user input,Essentials
+244,DEBIT,11/29/201909:49,26$SAR,Saudi Arabia,Needs user input,Food
+245,DEBIT,11/30/201900:00,50$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+248,DEBIT,11/30/201915:46,17$SAR,Saudi Arabia,Needs user input,Food
+250,DEBIT,11/30/201916:09,20$SAR,Saudi Arabia,Needs user input,Coffee
+252,DEBIT,11/30/201917:00,279$SAR,Saudi Arabia,Needs user input,Electronics
+254,DEBIT,12/01/201920:41,50$SAR,Saudi Arabia,cash withdrawal,Cash
+256,DEBIT,12/01/201914:21,12$SAR,Saudi Arabia,Needs user input,Food
+258,DEBIT,12/01/201914:52,7$SAR,Saudi Arabia,Needs user input,Coffee
+259,CREDIT,12/01/201900:00,2529$SAR,Saudi Arabia,POS Purchase,Electronics
+262,DEBIT,12/02/201909:08,10$SAR,Saudi Arabia,Needs user input,Food
+264,DEBIT,12/03/201920:31,17$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+266,DEBIT,12/03/201909:05,6$SAR,Saudi Arabia,Needs user input,Food
+268,DEBIT,12/03/201908:54,10$SAR,Saudi Arabia,Needs user input,Food
+270,DEBIT,12/03/201920:19,30$SAR,Saudi Arabia,Needs user input,Food
+272,DEBIT,12/04/201908:55,10$SAR,Saudi Arabia,Needs user input,Food
+273,DEBIT,12/04/201900:00,12$SAR,Saudi Arabia,POS Purchase,Coffee
+276,DEBIT,12/04/201922:15,28$SAR,Saudi Arabia,Needs user input,Food
+278,DEBIT,12/05/201918:17,300$SAR,Saudi Arabia,Needs user input,Essentials
+280,DEBIT,12/05/201919:51,50$SAR,Saudi Arabia,cash withdrawal,Cash
+282,DEBIT,12/05/201909:31,10$SAR,Saudi Arabia,Needs user input,Food
+284,DEBIT,12/06/201909:54,92$SAR,Saudi Arabia,Needs user input,Food
+285,DEBIT,12/06/201900:00,45$SAR,Saudi Arabia,POS Purchase,Electronics
+287,DEBIT,12/07/201900:00,100$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+290,DEBIT,12/07/201910:49,26$SAR,Saudi Arabia,Needs user input,Food
+292,DEBIT,12/08/201914:34,38$SAR,Saudi Arabia,Needs user input,Food
+294,DEBIT,12/08/201909:06,10$SAR,Saudi Arabia,Needs user input,Food
+296,DEBIT,12/09/201909:23,6$SAR,Saudi Arabia,Needs user input,Food
+298,DEBIT,12/09/201915:22,24$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+300,DEBIT,12/09/201920:55,28$SAR,Saudi Arabia,Needs user input,Food
+301,DEBIT,12/09/201900:00,10$SAR,Saudi Arabia,POS Purchase,Electronics
+304,DEBIT,12/09/201908:56,61$SAR,Saudi Arabia,Needs user input,Essentials
+306,DEBIT,12/10/201914:04,17$SAR,Saudi Arabia,Needs user input,Food
+308,DEBIT,12/10/201909:08,10$SAR,Saudi Arabia,Needs user input,Food
+310,DEBIT,12/10/201918:55,45$SAR,Saudi Arabia,Needs user input,Entertainment
+312,DEBIT,12/11/201909:49,40$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+314,DEBIT,12/11/201909:07,10$SAR,Saudi Arabia,Needs user input,Food
+315,DEBIT,12/11/201900:00,21$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+318,DEBIT,12/12/201908:54,10$SAR,Saudi Arabia,Needs user input,Food
+320,DEBIT,12/12/201917:46,75$SAR,Saudi Arabia,Needs user input,Electronics
+322,DEBIT,12/13/201916:44,41$SAR,Saudi Arabia,Needs user input,Coffee
+324,DEBIT,12/13/201921:51,67$SAR,Saudi Arabia,POS Purchase,Food
+326,DEBIT,12/14/201910:24,26$SAR,Saudi Arabia,Needs user input,Food
+327,DEBIT,12/14/201900:00,139$SAR,Saudi Arabia,POS Purchase,Entertainment
+329,DEBIT,12/14/201900:00,50$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+332,DEBIT,12/14/201910:35,12$SAR,Saudi Arabia,Needs user input,Food
+334,DEBIT,12/16/201917:47,23$SAR,Saudi Arabia,Needs user input,Food
+336,DEBIT,12/17/201917:35,23$SAR,Saudi Arabia,Needs user input,Food
+337,DEBIT,12/15/201919:26,19.99$SAR,Sweden,E-commerce Purchase,Subscription
+339,DEBIT,12/17/201909:36,6$SAR,Saudi Arabia,Needs user input,Food
+341,DEBIT,12/18/201914:43,34$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+342,DEBIT,12/18/201900:00,14$SAR,Saudi Arabia,POS Purchase,Electronics
+344,DEBIT,12/19/201900:00,15$SAR,Saudi Arabia,POS Purchase,Electronics
+347,DEBIT,12/19/201909:20,7$SAR,Saudi Arabia,Needs user input,Food
+349,DEBIT,12/19/201920:24,100$SAR,Saudi Arabia,cash withdrawal,Cash
+351,DEBIT,12/19/201917:57,239$SAR,Saudi Arabia,Needs user input,Entertainment
+353,DEBIT,12/20/201909:54,46$SAR,Saudi Arabia,Needs user input,Coffee
+355,DEBIT,12/20/201916:00,26.25$SAR,,,Bills
+357,DEBIT,12/20/201919:50,35$SAR,Saudi Arabia,Needs user input,Coffee
+358,DEBIT,12/20/201900:00,429.25$SAR,Saudi Arabia,POS Purchase,Food
+361,DEBIT,12/20/201915:29,25$SAR,Saudi Arabia,Needs user input,Food
+363,DEBIT,12/20/201918:13,90.99$SAR,Saudi Arabia,Needs user input,Food
+364,DEBIT,12/18/201919:30,58.6$SAR,Luxembourg,E-commerce Purchase,Electronics
+366,DEBIT,12/22/201913:21,17$SAR,Saudi Arabia,Needs user input,Food
+368,DEBIT,12/22/201909:09,10$SAR,Saudi Arabia,Needs user input,Food
+369,DEBIT,12/21/201919:06,69.05$SAR,G.B.,E-commerce Purchase,Electronics
+371,DEBIT,12/23/201914:45,48$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+372,DEBIT,12/24/201900:00,33$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+375,DEBIT,12/24/201918:02,23$SAR,Saudi Arabia,Needs user input,Food
+377,DEBIT,12/25/201909:03,10$SAR,Saudi Arabia,Needs user input,Coffee
+379,DEBIT,12/25/201909:22,8$SAR,Saudi Arabia,Needs user input,Food
+381,DEBIT,12/25/201919:50,52$SAR,Saudi Arabia,Needs user input,Food
+383,DEBIT,12/26/201919:45,196$SAR,Saudi Arabia,Needs user input,Electronics
+384,DEBIT,12/26/201900:00,10$SAR,Saudi Arabia,POS Purchase,Entertainment
+386,DEBIT,12/26/201900:00,12$SAR,Saudi Arabia,POS Purchase,Electronics
+389,DEBIT,12/26/201909:38,3000$SAR,Saudi Arabia,cash withdrawal,Cash
+391,DEBIT,12/26/201918:43,3599$SAR,Saudi Arabia,Needs user input,Electronics
+393,DEBIT,12/26/201919:11,28$SAR,Saudi Arabia,Needs user input,Clothes
+395,DEBIT,12/26/201910:23,8$SAR,Saudi Arabia,Needs user input,Food
+396,DEBIT,12/27/201900:00,125$SAR,Saudi Arabia,POS Purchase,Coffee
+398,DEBIT,12/27/201900:00,50$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+399,DEBIT,12/28/201900:00,61$SAR,Saudi Arabia,POS Purchase,Entertainment
+401,DEBIT,12/28/201900:00,155$SAR,Saudi Arabia,POS Purchase,Food
+404,DEBIT,12/28/201911:05,150$SAR,Saudi Arabia,Needs user input,Clothes
+406,DEBIT,12/28/201920:04,134$SAR,Saudi Arabia,Needs user input,Essentials
+408,DEBIT,12/28/201920:44,264.2$SAR,Saudi Arabia,POS Purchase,Essentials
+410,DEBIT,12/28/201911:46,559$SAR,Saudi Arabia,Needs user input,Clothes
+412,DEBIT,12/28/201911:15,178$SAR,Saudi Arabia,Needs user input,Electronics
+414,DEBIT,12/28/201911:18,36$SAR,Saudi Arabia,Needs user input,Food
+415,DEBIT,12/29/201900:00,50$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+418,DEBIT,12/29/201908:52,11$SAR,Saudi Arabia,Needs user input,Food
+420,CREDIT,12/29/201915:34,45$SAR,Saudi Arabia,Incoming transfer,Money transfer
+422,CREDIT,12/29/201911:08,90$SAR,Saudi Arabia,Incoming transfer,Money transfer
+424,DEBIT,12/30/201921:22,374$SAR,Saudi Arabia,Needs user input,Electronics
+426,DEBIT,12/30/201909:28,8$SAR,Saudi Arabia,Needs user input,Food
+428,CREDIT,12/30/201910:59,45$SAR,Saudi Arabia,Incoming transfer,Money transfer
+429,DEBIT,12/31/201900:00,399$SAR,Saudi Arabia,POS Purchase,Electronics
+431,DEBIT,12/31/201900:00,17.59$SAR,Saudi Arabia,Electron Sales Draft,Food
+432,DEBIT,12/27/201922:09,64.4$SAR,Netherlands,E-commerce Purchase,Entertainment
+434,DEBIT,01/01/202009:35,10$SAR,Saudi Arabia,Needs user input,Coffee
+436,DEBIT,01/02/202021:50,29.4$SAR,Saudi Arabia,Needs user input,Coffee
+438,DEBIT,01/02/202023:43,121$SAR,Saudi Arabia,Needs user input,Food
+440,DEBIT,01/03/202020:49,53$SAR,Saudi Arabia,Needs user input,Food
+441,DEBIT,01/04/202000:00,120$SAR,Saudi Arabia,POS Purchase,Food
+443,DEBIT,01/06/202000:00,21$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+446,DEBIT,01/06/202019:40,49$SAR,Saudi Arabia,Needs user input,Food
+448,CREDIT,01/07/202015:03,102$SAR,Saudi Arabia,Incoming transfer,Money transfer
+450,DEBIT,01/07/202009:09,8$SAR,Saudi Arabia,Needs user input,Food
+452,DEBIT,01/07/202008:51,10$SAR,Saudi Arabia,Needs user input,Coffee
+454,CREDIT,01/07/202016:31,16$SAR,Saudi Arabia,Incoming transfer,Money transfer
+455,CREDIT,01/07/202000:00,51$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER,Money transfer
+457,DEBIT,01/07/202000:00,350$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+459,DEBIT,01/05/202019:19,76.69$SAR,USA,E-commerce Purchase,Electronics
+461,DEBIT,01/07/202018:01,151$SAR,Saudi Arabia,Needs user input,Electronics
+463,DEBIT,01/08/202016:43,8$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+465,DEBIT,01/08/202009:03,8$SAR,Saudi Arabia,Needs user input,Food
+467,DEBIT,01/09/202009:32,18$SAR,Saudi Arabia,Needs user input,Food
+469,DEBIT,01/09/202017:57,180$SAR,Saudi Arabia,Needs user input,Clothes
+471,DEBIT,01/09/202018:17,27$SAR,Saudi Arabia,Needs user input,Food
+472,DEBIT,01/10/202000:00,72$SAR,Saudi Arabia,POS Purchase,Entertainment
+475,DEBIT,01/10/202019:34,72.5$SAR,Saudi Arabia,Needs user input,Food
+477,DEBIT,01/11/202018:03,26.5$SAR,Saudi Arabia,Needs user input,Food
+479,DEBIT,01/11/202010:31,26$SAR,Saudi Arabia,Needs user input,Food
+481,DEBIT,01/11/202010:15,190$SAR,Saudi Arabia,Needs user input,Essentials
+483,DEBIT,01/11/202015:56,22.05$SAR,Saudi Arabia,Needs user input,Coffee
+485,DEBIT,01/12/202019:54,44$SAR,Saudi Arabia,Needs user input,Food
+486,DEBIT,01/12/202000:00,8$SAR,Saudi Arabia,POS Purchase,Food
+489,DEBIT,01/13/202009:00,9$SAR,Saudi Arabia,Needs user input,Food
+491,DEBIT,01/13/202018:07,170$SAR,Saudi Arabia,Needs user input,Clothes
+493,DEBIT,01/14/202009:24,11$SAR,Saudi Arabia,Needs user input,Food
+495,DEBIT,01/14/202021:14,48$SAR,Saudi Arabia,Needs user input,Food
+497,DEBIT,01/14/202018:03,15$SAR,Saudi Arabia,Needs user input,Coffee
+499,DEBIT,01/15/202019:33,47.5$SAR,Saudi Arabia,Needs user input,Food
+500,DEBIT,01/15/202000:00,10$SAR,Saudi Arabia,POS Purchase,Coffee
+503,DEBIT,01/15/202008:45,53$SAR,Saudi Arabia,Needs user input,Essentials
+505,DEBIT,01/16/202019:55,48.5$SAR,Saudi Arabia,Needs user input,Food
+507,DEBIT,01/16/202008:54,8$SAR,Saudi Arabia,Needs user input,Food
+509,DEBIT,01/17/202016:27,40$SAR,Saudi Arabia,Needs user input,Food
+510,DEBIT,01/15/202010:16,19.99$SAR,Sweden,E-commerce Purchase,Subscription
+511,DEBIT,01/16/202016:01,365.79$SAR,USA,E-commerce Purchase,Electronics
+512,DEBIT,01/18/202000:00,15$SAR,Saudi Arabia,POS Purchase,Coffee
+514,DEBIT,01/18/202000:00,21$SAR,Saudi Arabia,POS Purchase,Entertainment
+517,DEBIT,01/18/202021:41,143.85$SAR,Saudi Arabia,Needs user input,Entertainment
+519,DEBIT,01/18/202010:16,53$SAR,Saudi Arabia,Needs user input,Food
+521,DEBIT,01/19/202018:28,429$SAR,Saudi Arabia,Needs user input,Electronics
+523,DEBIT,01/19/202015:44,13$SAR,Saudi Arabia,Needs user input,Coffee
+525,DEBIT,01/19/202015:55,35$SAR,Saudi Arabia,Needs user input,Food
+527,DEBIT,01/19/202015:46,110$SAR,Saudi Arabia,Needs user input,Coffee
+528,DEBIT,01/20/202000:00,10.5$SAR,Saudi Arabia,POS Purchase,Entertainment
+531,DEBIT,01/21/202014:48,15$SAR,Saudi Arabia,Needs user input,Coffee
+533,DEBIT,01/22/202019:59,120$SAR,Saudi Arabia,Needs user input,Entertainment
+535,DEBIT,01/22/202019:47,200$SAR,Saudi Arabia,cash withdrawal,Cash
+537,DEBIT,01/23/202014:09,14.7$SAR,Saudi Arabia,Needs user input,Coffee
+539,DEBIT,01/24/202009:04,52.5$SAR,,,Bills
+540,CREDIT,01/24/202000:00,7.14$SAR,Saudi Arabia,Electron Refund,Coffee
+541,DEBIT,01/24/202000:00,152$SAR,Saudi Arabia,POS Purchase,Food
+544,DEBIT,01/24/202021:09,85$SAR,Saudi Arabia,Needs user input,Food
+545,DEBIT,01/21/202021:43,7.5$SAR,Luxembourg,E-commerce Purchase,Entertainment
+546,DEBIT,01/21/202021:45,59.64$SAR,H.K.,E-commerce Purchase,Electronics
+548,DEBIT,01/24/202009:56,64$SAR,Saudi Arabia,Needs user input,Food
+550,DEBIT,01/25/202010:30,50$SAR,Saudi Arabia,cash withdrawal,Cash
+551,DEBIT,01/25/202000:00,48$SAR,Saudi Arabia,POS Purchase,Electronics
+552,DEBIT,01/25/202000:00,70$SAR,Saudi Arabia,POS Purchase,Food
+553,DEBIT,01/26/202000:00,42.5$SAR,Saudi Arabia,POS Purchase,Coffee
+555,DEBIT,01/26/202000:00,3050$SAR,Saudi Arabia,ATM Cash Withdrawal,Cash
+557,DEBIT,01/26/202000:00,3000$SAR,Saudi Arabia,SARIE OUTGOING PAYMENT (DR),Money transfer
+559,DEBIT,01/27/202015:03,23$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+561,DEBIT,01/29/202018:30,1899$SAR,Saudi Arabia,Needs user input,Electronics
+563,DEBIT,01/30/202016:17,38$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+565,DEBIT,02/02/202015:10,31$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+567,DEBIT,02/03/202012:52,14.6$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+569,DEBIT,02/05/202009:26,11$SAR,Saudi Arabia,Needs user input,Food
+570,DEBIT,02/06/202000:00,35$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+573,DEBIT,02/09/202016:33,23$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+575,DEBIT,02/11/202015:50,39$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+576,DEBIT,02/11/202000:00,4237.85$SAR,Saudi Arabia,SARIE OUTGOING PAYMENT (DR),Money transfer
+578,DEBIT,02/12/202008:46,60$SAR,Saudi Arabia,Needs user input,Essentials
+580,DEBIT,02/13/202009:10,22$SAR,Saudi Arabia,Needs user input,Food
+582,DEBIT,02/14/202022:14,28.1$SAR,Saudi Arabia,Needs user input,Essentials
+583,DEBIT,02/14/202000:00,153$SAR,Saudi Arabia,POS Purchase,Coffee
+586,DEBIT,02/14/202015:59,227$SAR,Saudi Arabia,Needs user input,Food
+588,DEBIT,02/14/202009:15,14$SAR,Saudi Arabia,Needs user input,Coffee
+589,DEBIT,02/13/202013:46,189.92$SAR,USA,E-commerce Purchase,Entertainment
+590,DEBIT,02/15/202000:00,5095$SAR,Saudi Arabia,SARIE OUTGOING PAYMENT (DR),Money transfer
+592,DEBIT,02/15/202018:36,48.5$SAR,Saudi Arabia,Needs user input,Food
+594,DEBIT,02/16/202009:54,8$SAR,Saudi Arabia,Needs user input,Food
+596,DEBIT,02/16/202018:32,48.5$SAR,Saudi Arabia,Needs user input,Food
+597,DEBIT,02/17/202000:00,28.5$SAR,Saudi Arabia,POS Purchase,Electronics
+600,DEBIT,02/17/202009:16,6$SAR,Saudi Arabia,Needs user input,Food
+601,DEBIT,02/15/202010:15,19.99$SAR,Sweden,E-commerce Purchase,Subscription
+603,DEBIT,02/17/202008:52,10$SAR,Saudi Arabia,Needs user input,Coffee
+605,DEBIT,02/18/202009:30,11$SAR,Saudi Arabia,Needs user input,Food
+607,CREDIT,02/18/202017:04,21$SAR,Saudi Arabia,Incoming transfer,Money transfer
+609,CREDIT,02/18/202017:04,21$SAR,Saudi Arabia,Incoming transfer,Money transfer
+611,DEBIT,02/18/202017:03,40$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+612,DEBIT,02/18/202000:00,42$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+615,CREDIT,02/19/202015:14,27.5$SAR,Saudi Arabia,Incoming transfer,Money transfer
+617,DEBIT,02/19/202009:54,16$SAR,Saudi Arabia,Needs user input,Food
+619,CREDIT,02/19/202015:12,21$SAR,Saudi Arabia,Incoming transfer,Money transfer
+621,CREDIT,02/19/202015:29,21$SAR,Saudi Arabia,Incoming transfer,Money transfer
+623,DEBIT,02/19/202013:55,250$SAR,Saudi Arabia,cash withdrawal,Cash
+624,DEBIT,02/19/202000:00,10$SAR,Saudi Arabia,POS Purchase,Entertainment
+626,CREDIT,02/19/202000:00,47.5$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER,Money transfer
+628,DEBIT,02/17/202016:48,361.42$SAR,USA,E-commerce Purchase,Electronics
+630,DEBIT,02/20/202009:24,18$SAR,Saudi Arabia,Needs user input,Food
+632,DEBIT,02/20/202020:16,105$SAR,Saudi Arabia,E-commerce Purchase,Entertainment
+634,DEBIT,02/20/202016:55,35$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+636,DEBIT,02/20/202020:13,68.25$SAR,Saudi Arabia,E-commerce Purchase,Entertainment
+638,DEBIT,02/21/202021:03,50$SAR,Saudi Arabia,Needs user input,Essentials
+640,DEBIT,02/21/202010:25,33$SAR,Saudi Arabia,Needs user input,Coffee
+641,DEBIT,02/21/202000:00,64$SAR,Saudi Arabia,POS Purchase,Coffee
+644,DEBIT,02/22/202008:10,10$SAR,Saudi Arabia,Needs user input,Coffee
+646,DEBIT,02/22/202010:06,64$SAR,Saudi Arabia,Needs user input,Food
+648,DEBIT,02/22/202021:21,280$SAR,Saudi Arabia,Needs user input,Entertainment
+650,DEBIT,02/23/202007:34,10$SAR,Saudi Arabia,Needs user input,Coffee
+652,DEBIT,02/23/202016:15,17$SAR,Saudi Arabia,Needs user input,Coffee
+654,DEBIT,02/23/202010:52,3.5$SAR,Saudi Arabia,E-commerce Purchase,Essentials
+655,DEBIT,02/23/202000:00,189$SAR,Saudi Arabia,POS Purchase,Entertainment
+658,DEBIT,02/23/202022:55,16$SAR,Saudi Arabia,Needs user input,Food
+660,DEBIT,02/23/202020:28,44$SAR,Saudi Arabia,Needs user input,Food
+662,DEBIT,02/23/202010:04,21$SAR,Saudi Arabia,Needs user input,Coffee
+663,DEBIT,02/23/202009:41,23.78$SAR,Netherlands,E-commerce Purchase,Entertainment
+664,DEBIT,02/23/202011:25,20.78$SAR,Netherlands,E-commerce Purchase,Entertainment
+665,DEBIT,02/26/202000:00,3000$SAR,Saudi Arabia,SARIE OUTGOING PAYMENT (DR),Money transfer
+667,DEBIT,02/26/202013:38,246$SAR,Saudi Arabia,Needs user input,Coffee
+668,DEBIT,02/26/202000:00,199$SAR,Saudi Arabia,POS Purchase,Electronics
+670,DEBIT,02/24/202009:36,10$SAR,Netherlands,E-commerce Purchase,Entertainment
+671,DEBIT,02/26/202000:00,8000$SAR,Saudi Arabia,SARIE OUTGOING PAYMENT (DR),Money transfer
+672,DEBIT,02/24/202009:08,16.48$SAR,Netherlands,E-commerce Purchase,Entertainment
+673,DEBIT,02/27/202000:00,300$SAR,Saudi Arabia,SARIE OUTGOING PAYMENT (DR),Money transfer
+675,DEBIT,02/27/202020:18,212$SAR,Saudi Arabia,Needs user input,Entertainment
+677,DEBIT,02/27/202020:40,29.93$SAR,Saudi Arabia,Needs user input,Food
+679,DEBIT,02/28/202021:47,116$SAR,Saudi Arabia,Needs user input,Essentials
+680,DEBIT,02/29/202000:00,559$SAR,Saudi Arabia,POS Purchase,Entertainment
+682,DEBIT,02/29/202000:00,250$SAR,Saudi Arabia,Transfer to Charity Account,Money transfer
+683,DEBIT,03/01/202013:29,446.56$SAR,G.B.,E-commerce Purchase,Entertainment
+684,DEBIT,03/04/202017:57,57.59$SAR,Canada,E-commerce Purchase,Electronics
+685,DEBIT,03/07/202000:00,25$SAR,Saudi Arabia,POS Purchase,Food
+688,DEBIT,03/10/202016:36,58$SAR,Saudi Arabia,Needs user input,Essentials
+690,DEBIT,03/11/202008:54,10$SAR,Saudi Arabia,Needs user input,Coffee
+692,DEBIT,03/17/202008:56,48$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+693,DEBIT,03/17/202000:00,8$SAR,Saudi Arabia,Card Payment,Bills
+694,CREDIT,03/17/202000:00,350$SAR,Saudi Arabia,Cash Deposit Through ATM,Cash
+695,DEBIT,03/18/202000:00,18$SAR,Saudi Arabia,Card Payment,Bills
+696,DEBIT,03/19/202000:00,65$SAR,Saudi Arabia,Card Payment,Bills
+697,DEBIT,03/18/202010:16,19.99$SAR,Sweden,E-commerce Purchase,Subscription
+698,DEBIT,03/24/202000:00,108$SAR,Saudi Arabia,Card Payment,Bills
+699,DEBIT,03/25/202000:00,31$SAR,Saudi Arabia,Card Payment,Bills
+700,DEBIT,03/26/202000:00,246$SAR,Saudi Arabia,Card Payment,Bills
+701,DEBIT,03/26/202000:00,15$SAR,Saudi Arabia,Card Payment,Bills
+702,DEBIT,03/26/202000:00,3000$SAR,Saudi Arabia,SARIE OUTGOING PAYMENT (DR),Money transfer
+704,DEBIT,04/01/202013:03,82.38$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+706,DEBIT,04/06/202008:34,20$SAR,Saudi Arabia,Needs user input,Food
+708,DEBIT,04/07/202010:57,1$SAR,Saudi Arabia,E-commerce Purchase,Essentials
+710,CREDIT,04/07/202010:57,1$SAR,Saudi Arabia,Deposit of reversed POS purchase,Essentials
+711,DEBIT,04/08/202000:00,30.78$SAR,Saudi Arabia,Electron Sales Draft,Coffee
+712,CREDIT,04/11/202000:00,29.33$SAR,Saudi Arabia,Electron Refund,Food
+713,DEBIT,04/15/202010:15,19.99$SAR,Sweden,E-commerce Purchase,Subscription
+714,DEBIT,04/21/202000:00,726.93$SAR,Saudi Arabia,POS Purchase,Electronics
+716,CREDIT,04/23/202000:00,364.69$SAR,Saudi Arabia,INCOMING SARIE PAYMENT (CR),Money transfer
+717,DEBIT,04/26/202000:00,250$SAR,Saudi Arabia,Card Payment,Bills
+718,DEBIT,04/26/202000:00,3000$SAR,Saudi Arabia,SARIE OUTGOING PAYMENT (DR),Money transfer
+719,DEBIT,05/01/202000:00,224.35$SAR,Saudi Arabia,Card Payment,Bills
+721,DEBIT,05/01/202019:17,52.5$SAR,,,Bills
+722,DEBIT,05/15/202010:15,19.99$SAR,Sweden,E-commerce Purchase,Subscription
+724,DEBIT,05/22/202013:51,116.85$SAR,Saudi Arabia,Needs user input,Essentials
+725,DEBIT,05/23/202000:00,224.35$SAR,Saudi Arabia,Card Payment,Bills
+726,CREDIT,05/27/202000:00,0.15$SAR,Saudi Arabia,Electron Refund,Food
+727,DEBIT,05/28/202000:00,3000$SAR,Saudi Arabia,SARIE OUTGOING PAYMENT (DR),Money transfer
+728,DEBIT,05/30/202000:00,134.01$SAR,Saudi Arabia,POS Purchase,Food
+731,DEBIT,06/01/202017:01,52.5$SAR,,,Bills
+733,DEBIT,06/01/202019:17,32$SAR,Saudi Arabia,Needs user input,Food
+734,DEBIT,06/01/202000:00,231.16$SAR,Saudi Arabia,Card Payment,Bills
+735,DEBIT,06/15/202010:16,19.99$SAR,Sweden,E-commerce Purchase,Subscription
+737,DEBIT,06/24/202009:57,25$SAR,Saudi Arabia,Needs user input,Food
+739,DEBIT,06/24/202009:23,43.5$SAR,Saudi Arabia,Needs user input,Food
+740,DEBIT,06/24/202000:00,21$SAR,Saudi Arabia,POS Purchase,Entertainment
+742,DEBIT,06/25/202000:00,255.2$SAR,Saudi Arabia,POS Purchase,Electronics
+744,DEBIT,06/25/202000:00,3000$SAR,Saudi Arabia,SARIE OUTGOING PAYMENT (DR),Money transfer
+745,DEBIT,06/29/202000:00,2471.92$SAR,Saudi Arabia,Card Payment,Bills
+746,DEBIT,06/30/202000:00,3066$SAR,Saudi Arabia,Card Payment,Bills
+748,DEBIT,07/01/202010:57,104.87$SAR,Saudi Arabia,Needs user input,Essentials
+750,DEBIT,07/02/202010:52,370.19$SAR,Saudi Arabia,Needs user input,Electronics
+752,DEBIT,07/03/202016:57,49$SAR,Saudi Arabia,Needs user input,Essentials
+754,DEBIT,07/03/202017:01,205.36$SAR,Saudi Arabia,Needs user input,Coffee
+756,DEBIT,07/04/202010:33,100$SAR,Saudi Arabia,cash withdrawal,Cash
+757,DEBIT,07/04/202000:00,17$SAR,Saudi Arabia,POS Purchase,Electronics
+760,DEBIT,07/05/202006:49,25$SAR,Saudi Arabia,Needs user input,Food
+761,DEBIT,07/05/202000:00,3150$SAR,Saudi Arabia,SARIE OUTGOING PAYMENT (DR),Money transfer
+763,DEBIT,07/10/202019:16,25$SAR,Saudi Arabia,Needs user input,Coffee
+765,DEBIT,07/11/202000:30,119$SAR,Saudi Arabia,Needs user input,Food
+767,DEBIT,07/14/202012:54,57.5$SAR,,,Bills
+769,DEBIT,07/17/202009:20,11$SAR,Saudi Arabia,Needs user input,Food
+770,DEBIT,07/15/202010:15,19.99$SAR,Sweden,E-commerce Purchase,Subscription
+771,DEBIT,07/17/202000:00,108.55$SAR,Saudi Arabia,POS Purchase,Coffee
+774,DEBIT,07/19/202019:33,1350$SAR,Saudi Arabia,cash withdrawal,Cash
+775,DEBIT,07/21/202021:42,155.68$SAR,USA,E-commerce Purchase,Electronics
+777,DEBIT,07/24/202019:37,46$SAR,Saudi Arabia,Needs user input,Food
+779,DEBIT,07/24/202017:06,350$SAR,Saudi Arabia,Needs user input,Essentials
+780,DEBIT,07/26/202000:00,4860.15$SAR,Saudi Arabia,Card Payment,Bills
+782,DEBIT,08/01/202018:09,100$SAR,Saudi Arabia,Needs user input,Food
+783,DEBIT,08/02/202000:00,27$SAR,Saudi Arabia,Card Payment,Bills
+785,DEBIT,08/04/202021:00,57.5$SAR,,,Bills
+786,DEBIT,08/05/202000:00,3000$SAR,Saudi Arabia,SARIE OUTGOING PAYMENT (DR),Money transfer
+788,DEBIT,08/05/202017:58,46$SAR,Saudi Arabia,Needs user input,Food
+790,DEBIT,08/06/202019:13,23$SAR,Saudi Arabia,Needs user input,Coffee
+792,DEBIT,08/07/202009:26,282.9$SAR,Saudi Arabia,Needs user input,Essentials
+794,DEBIT,08/07/202009:34,27$SAR,Saudi Arabia,Needs user input,Food
+796,DEBIT,08/07/202022:12,176$SAR,Saudi Arabia,Needs user input,Food
+798,DEBIT,08/10/202018:32,31$SAR,Saudi Arabia,Needs user input,Entertainment
+799,DEBIT,08/13/202000:00,148$SAR,Saudi Arabia,POS Purchase,Entertainment
+802,DEBIT,08/13/202022:07,25$SAR,Saudi Arabia,Needs user input,Coffee
+804,DEBIT,08/14/202019:35,53$SAR,Saudi Arabia,Needs user input,Food
+805,DEBIT,08/14/202000:00,27$SAR,Saudi Arabia,Card Payment,Bills
+807,DEBIT,08/14/202016:59,164$SAR,Saudi Arabia,Needs user input,Electronics
+808,CREDIT,08/14/202000:00,8.17$SAR,Saudi Arabia,Electron Refund,Coffee
+810,DEBIT,08/16/202015:08,32$SAR,Saudi Arabia,Needs user input,Coffee
+811,DEBIT,08/15/202010:15,19.99$SAR,Sweden,E-commerce Purchase,Subscription
+813,DEBIT,08/21/202017:53,17.5$SAR,Saudi Arabia,Needs user input,Food
+814,DEBIT,08/22/202000:00,14$SAR,Saudi Arabia,POS Purchase,Electronics
+817,DEBIT,08/24/202012:57,94$SAR,Saudi Arabia,Needs user input,Food
+819,DEBIT,08/24/202008:47,50$SAR,Saudi Arabia,Needs user input,Essentials
+820,DEBIT,08/26/202000:00,3000$SAR,Saudi Arabia,SARIE OUTGOING PAYMENT (DR),Money transfer
+822,DEBIT,08/26/202017:36,50$SAR,Saudi Arabia,Needs user input,Food
+824,DEBIT,08/27/202014:40,75$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+826,DEBIT,08/28/202017:56,16.1$SAR,Saudi Arabia,Needs user input,Coffee
+827,DEBIT,08/29/202000:00,115$SAR,Saudi Arabia,POS Purchase,Entertainment
+830,DEBIT,08/29/202008:58,28$SAR,Saudi Arabia,Needs user input,Food
+832,DEBIT,08/29/202009:19,50$SAR,Saudi Arabia,Needs user input,Essentials
+834,DEBIT,08/30/202016:24,35$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+836,DEBIT,08/31/202014:26,35$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+838,DEBIT,08/31/202020:58,50$SAR,Saudi Arabia,cash withdrawal,Cash
+840,DEBIT,09/01/202014:05,23$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+841,DEBIT,09/01/202000:00,200$SAR,Saudi Arabia,Card Payment,Bills
+843,DEBIT,09/02/202014:16,35$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+845,DEBIT,09/02/202018:01,18$SAR,Saudi Arabia,Needs user input,Food
+847,DEBIT,09/03/202018:56,37$SAR,Saudi Arabia,Needs user input,Coffee
+849,DEBIT,09/04/202000:45,230$SAR,Saudi Arabia,Needs user input,Food
+851,DEBIT,09/04/202016:35,100$SAR,Saudi Arabia,cash withdrawal,Cash
+853,DEBIT,09/05/202014:50,40.16$SAR,Saudi Arabia,Needs user input,Food
+854,DEBIT,09/06/202000:00,50$SAR,Saudi Arabia,POS Purchase,Electronics
+855,DEBIT,09/08/202000:00,47$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER DR,Money transfer
+858,DEBIT,09/09/202015:05,35$SAR,Saudi Arabia,Outgoing transfer,Money transfer
+860,DEBIT,09/09/202015:06,57.5$SAR,,,Bills
+862,CREDIT,09/10/202015:54,25$SAR,Saudi Arabia,Incoming transfer,Money transfer
+864,DEBIT,09/11/202010:28,150$SAR,,,Bills
+866,DEBIT,09/11/202002:34,50$SAR,Saudi Arabia,cash withdrawal,Cash
+868,CREDIT,09/16/202012:25,50$SAR,Saudi Arabia,Incoming transfer,Money transfer
+869,CREDIT,09/16/202000:00,60$SAR,Saudi Arabia,ACCOUNT TO ACCOUNT TRANSFER,Money transfer
+871,DEBIT,09/15/202010:51,19.99$SAR,Sweden,E-commerce Purchase,Subscription
+873,DEBIT,09/21/202021:45,48$SAR,Saudi Arabia,Needs user input,Food
+875,DEBIT,09/22/202019:47,500$SAR,Saudi Arabia,cash withdrawal,Cash
+876,DEBIT,09/22/202000:00,102$SAR,Saudi Arabia,POS Purchase,Food
+877,DEBIT,09/22/202000:00,4303.05$SAR,Saudi Arabia,Card Payment,Bills
+879,CREDIT,09/22/202015:28,34$SAR,Saudi Arabia,Incoming transfer,Money transfer
+881,CREDIT,09/22/202014:22,81$SAR,Saudi Arabia,Incoming transfer,Money transfer
+882,DEBIT,09/23/202000:00,99$SAR,Saudi Arabia,POS Purchase,Electronics
+883,DEBIT,09/23/202000:00,73$SAR,Saudi Arabia,POS Purchase,Coffee
+884,DEBIT,09/22/202019:55,49.63$SAR,Netherlands,E-commerce Purchase,Entertainment
+885,DEBIT,09/22/202022:19,9$SAR,Netherlands,E-commerce Purchase,Entertainment
+886,DEBIT,09/22/202023:02,52.6$SAR,Netherlands,E-commerce Purchase,Entertainment
+887,DEBIT,09/21/202012:58,139.1$SAR,Saudi Arabia,E-commerce Purchase,Food
+889,DEBIT,09/24/202021:31,65.6$SAR,Saudi Arabia,E-commerce Purchase,Food
+890,DEBIT,09/24/202000:00,3000$SAR,Saudi Arabia,SARIE OUTGOING PAYMENT (DR),Money transfer
+892,DEBIT,09/25/202022:56,32$SAR,Saudi Arabia,Needs user input,Food
+893,DEBIT,09/26/202000:00,62$SAR,Saudi Arabia,POS Purchase,Electronics
+895,DEBIT,09/26/202017:01,55$SAR,Saudi Arabia,Needs user input,Food
+896,DEBIT,09/26/202000:00,50$SAR,Saudi Arabia,POS Purchase,Food
+897,DEBIT,09/27/202021:55,25$SAR,Saudi Arabia,POS Purchase,Coffee
+898,DEBIT,09/27/202009:33,7$SAR,Saudi Arabia,POS Purchase,Food
+899,CREDIT,08/27/201900:00,5678.89$SAR,Saudi Arabia,HR Credit,Money transfer
+900,CREDIT,09/26/201900:00,13483.33$SAR,Saudi Arabia,HR Credit,Money transfer
+901,CREDIT,10/24/201900:00,13483.33$SAR,Saudi Arabia,HR Credit,Money transfer
+902,CREDIT,11/21/201900:00,13483.33$SAR,Saudi Arabia,HR Credit,Money transfer
+903,CREDIT,12/26/201900:00,13483.33$SAR,Saudi Arabia,HR Credit,Money transfer
+904,CREDIT,01/26/202000:00,13483.33$SAR,Saudi Arabia,HR Credit,Money transfer
+905,CREDIT,02/13/202000:00,5978$SAR,Saudi Arabia,HR Credit,Money transfer
+906,CREDIT,02/26/202000:00,13483.33$SAR,Saudi Arabia,HR Credit,Money transfer
+907,CREDIT,03/26/202000:00,13483.33$SAR,Saudi Arabia,HR Credit,Money transfer
+908,CREDIT,04/23/202000:00,13483.33$SAR,Saudi Arabia,HR Credit,Money transfer
+909,CREDIT,05/20/202000:00,13483.33$SAR,Saudi Arabia,HR Credit,Money transfer
+910,CREDIT,06/25/202000:00,12483.33$SAR,Saudi Arabia,HR Credit,Money transfer
+911,CREDIT,06/29/202000:00,7998.89$SAR,Saudi Arabia,HR Credit,Money transfer
+912,CREDIT,07/26/202000:00,12483.33$SAR,Saudi Arabia,HR Credit,Money transfer
+913,CREDIT,08/26/202000:00,12483.33$SAR,Saudi Arabia,HR Credit,Money transfer
+914,CREDIT,09/24/202000:00,12483.33$SAR,Saudi Arabia,HR Credit,Money transfer
+915,DEBIT,09/29/202020:00,55$SAR,Saudi Arabia,POS Purchase,Food
+916,DEBIT,09/28/202021:34,42$SAR,Saudi Arabia,POS Purchase,Food
+917,DEBIT,09/30/202009:20,7$SAR,Saudi Arabia,POS Purchase,Food
+918,DEBIT,09/30/202018:55,41$SAR,Saudi Arabia,POS Purchase,Food
+919,DEBIT,10/01/202008:45,14$SAR,Saudi Arabia,POS Purchase,Coffee
+920,DEBIT,10/01/202020:17,41$SAR,Saudi Arabia,POS Purchase,Food
+921,DEBIT,10/02/202008:22,108.97$SAR,Saudi Arabia,POS Purchase,Coffee
+922,DEBIT,10/02/202020:16,36$SAR,Saudi Arabia,POS Purchase,Coffee
+923,DEBIT,10/03/202021:27,14$SAR,Saudi Arabia,POS Purchase,Essentials
+924,DEBIT,10/04/202017:34,48$SAR,Saudi Arabia,POS Purchase,Food
+925,DEBIT,10/05/202013:06,5$SAR,Saudi Arabia,POS Purchase,Coffee
+926,DEBIT,10/05/202018:34,16$SAR,Saudi Arabia,POS Purchase,Food
+927,DEBIT,10/07/202017:56,48$SAR,Saudi Arabia,POS Purchase,Food
+928,DEBIT,10/08/202015:14,26$SAR,Saudi Arabia,POS Purchase,Food
+929,DEBIT,10/11/202018:59,34.5$SAR,Saudi Arabia,POS Purchase,Bills
+930,DEBIT,10/12/202009:02,14$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/13/202017:26,41$SAR,Saudi Arabia,POS Purchase,Food
+931,CREDIT,10/14/202016:06,25$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/15/202013:48,21$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/16/202015:54,35$SAR,Saudi Arabia,POS Purchase,Essentials
+931,DEBIT,10/16/202016:14,10.5$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/17/202010:16,19.99$SAR,Saudi Arabia,POS Purchase,Subscription
+931,DEBIT,10/17/202016:19,130$SAR,Saudi Arabia,POS Purchase,Essentials
+931,DEBIT,10/17/202021:41,9$SAR,Saudi Arabia,POS Purchase,Essentials
+931,DEBIT,10/17/202021:44,3.5$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/18/202009:01,50$SAR,Saudi Arabia,POS Purchase,Essentials
+931,DEBIT,10/17/202016:19,50$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/15/202020:01,41$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/14/202014:30,81$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/13/202019:51,48$SAR,Saudi Arabia,POS Purchase,Coffee
+931,DEBIT,10/10/202015:23,102.25$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/06/202019:44,72.25$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,09/30/202018:16,720$SAR,Saudi Arabia,POS Purchase,Essentials
+931,DEBIT,09/26/202016:49,346$SAR,Saudi Arabia,POS Purchase,Essentials
+931,DEBIT,09/26/202005:25,61$SAR,Saudi Arabia,POS Purchase,Subscription
+931,CREDIT,10/18/202014:51,28$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/19/202009:12,18$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/19/202019:47,82.25$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/20/202009:12,18$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/20/202013:57,88.95$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/21/202009:33,18$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/21/202020:27,160$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/21/202020:56,9$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/22/202013:33,15$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/22/202017:42,41$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/23/202016:03,20$SAR,Saudi Arabia,POS Purchase,Essentials
+931,DEBIT,10/23/202016:08,14.5$SAR,Saudi Arabia,POS Purchase,Essentials
+931,DEBIT,10/23/202018:23,18$SAR,Saudi Arabia,POS Purchase,Coffee
+931,DEBIT,10/23/202016:11,24$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/23/202022:59,21$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/24/202016:42,26$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/24/202016:51,27$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/25/202010:09,188$SAR,Saudi Arabia,POS Purchase,Essentials
+931,DEBIT,10/25/202010:22,30$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/25/202016:36,40$SAR,Saudi Arabia,POS Purchase,Coffee
+931,DEBIT,10/23/202014:24,3.94$SAR,Saudi Arabia,POS Purchase,Subscription
+931,CREDIT,10/26/202007:22,12483.33$SAR,Saudi Arabia,HR Credit,Money transfer
+931,DEBIT,10/26/202017:06,27$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/26/202017:12,1.5$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/27/202010:57,137.46$SAR,Saudi Arabia,POS Purchase,Coffee
+931,DEBIT,10/27/202017:02,27$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/27/202017:09,10$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/28/202009:28,1000$SAR,Saudi Arabia,Mom,Money transfer
+866,DEBIT,10/28/202016:36,450$SAR,Saudi Arabia,cash withdrawal,Essentials
+868,CREDIT,10/29/202010:59,45$SAR,Saudi Arabia,Incoming transfer,Money transfer
+931,DEBIT,10/29/202016:44,149$SAR,Saudi Arabia,POS Purchase,Essentials
+931,DEBIT,10/29/202016:53,140$SAR,Saudi Arabia,POS Purchase,Essentials
+931,DEBIT,10/29/202017:09,49$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/30/202016:56,33$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/30/202018:19,9$SAR,Saudi Arabia,POS Purchase,Coffee
+931,DEBIT,10/30/202023:41,33$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/31/202010:54,37.95$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,10/31/202017:03,27$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,11/01/202010:34,16$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,11/01/202018:33,41$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,11/01/202021:43,295.79$SAR,Saudi Arabia,POS Purchase,Jaiden Animation
+931,DEBIT,11/02/202008:53,13$SAR,Saudi Arabia,POS Purchase,Coffee
+931,DEBIT,11/02/202012:39,21$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,08/18/201900:00,11627.78$SAR,Saudi Arabia,resignation fee,Essentials
+931,DEBIT,11/03/202008:59,6$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,11/03/202012:33,17$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,11/03/202016:15,34.5$SAR,Saudi Arabia,POS Purchase,Bills
+931,DEBIT,11/03/202019:35,30$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,11/04/202012:55,15$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,11/04/202020:13,27$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,11/04/202020:33,30$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,11/05/202012:45,15$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,11/05/202017:37,48$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,11/06/202014:25,48$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,11/06/202020:13,19$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,11/07/202011:21,23$SAR,Saudi Arabia,POS Purchase,Essentials
+931,DEBIT,11/07/202016:11,27$SAR,Saudi Arabia,POS Purchase,Food
+931,DEBIT,11/05/202012:12,46$SAR,Saudi Arabia,POS Purchase,Essentials
+931,DEBIT,11/05/202012:12,46$SAR,Saudi Arabia,POS Purchase,Essentials
+931,CREDIT,11/06/202010:25,425.75$SAR,Saudi Arabia,POS Purchase,Electronics
